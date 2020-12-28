@@ -1,7 +1,7 @@
 import time
 import os
 
-slide1 = '(^_^)'
+slode1 = '(^_^)'
 slide2 = '(^_~)'
 slide3 = '(^_^)'
 slide4 = '(о_О)'

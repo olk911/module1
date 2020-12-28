@@ -6,3 +6,4 @@ students = [student1, student2, student3]
 
 for s in students:
     print(s['name'])
+    print(s['cities'])
